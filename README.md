@@ -51,13 +51,21 @@ run:
 java QuantumBookstoreFullTest
 
 🧪 Sample Output
-PS C:\Users\Taha Eltorkey\Downloads\2nd challenge> javac QuantumBookstoreFullTest.java
-PS C:\Users\Taha Eltorkey\Downloads\2nd challenge> java QuantumBookstoreFullTest
-Quantum book store: Total paid = 241.0
-Quantum book store: Paper book shipped to 123 Cairo St 
-Quantum book store: Total paid = 75.0
-Quantum book store: EBook sent to blackbeauty@gmail.com
-Quantum book store: Not enough quantity
-Quantum book store: Removed outdated book: Secret Book
-PS C:\Users\Taha Eltorkey\Downloads\2nd challenge> 
 
+PS C:\Users\Taha Eltorkey\Downloads\2nd challenge> javac QuantumBookstoreFullTest.java
+
+PS C:\Users\Taha Eltorkey\Downloads\2nd challenge> java QuantumBookstoreFullTest
+
+Quantum book store: Total paid = 241.0
+
+Quantum book store: Paper book shipped to 123 Cairo St 
+
+Quantum book store: Total paid = 75.0
+
+Quantum book store: EBook sent to blackbeauty@gmail.com
+
+Quantum book store: Not enough quantity
+
+Quantum book store: Removed outdated book: Secret Book
+
+PS C:\Users\Taha Eltorkey\Downloads\2nd challenge> 
