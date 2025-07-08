@@ -51,6 +51,7 @@ run:
 java QuantumBookstoreFullTest
 
 🧪 Sample Output
+
 PS C:\Users\Taha Eltorkey\Downloads\2nd challenge> javac QuantumBookstoreFullTest.java
 
 PS C:\Users\Taha Eltorkey\Downloads\2nd challenge> java QuantumBookstoreFullTest
